@@ -1,0 +1,12 @@
+{
+  "name": "ROUTES",
+  "displayName": "ROUTES",
+  "expo": {
+    "name": "ROUTES",
+    "slug": "ROUTES",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
